@@ -43,7 +43,7 @@
     },
     "packageRules": [
       {
-        "matchPackageNames": ["react-native", "react", "react-native-flipper"],
+        "matchPackageNames": ["toto"],
         "enabled": false
       },
       {
