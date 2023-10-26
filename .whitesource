@@ -43,7 +43,7 @@
     },
     "packageRules": [
       {
-        "matchPackageNames": ["toto"],
+        "matchPackageNames": ["test"],
         "enabled": false
       },
       {
